@@ -11,6 +11,7 @@
 ## Currently learning
 - [Lua](https://lua.org)
 - [Vuejs](https://vuejs.org)
+- [ReactJs](https://react.dev)
 
 ---
 Thanks For Coming! 🥳
