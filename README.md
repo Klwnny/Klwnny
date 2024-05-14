@@ -4,7 +4,6 @@
 - I’m looking to collaborate on different games.
 ## How to reach me 
 -  you can contact me on [discord](https://discord.com), my username is `mnoss`
-- you can also contact me on twitter, my handle is [@Klwnny](https://twitter.com/klwnny)
 ##  My Works 
 
 
